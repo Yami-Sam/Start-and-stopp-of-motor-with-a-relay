@@ -1,0 +1,9 @@
+for å bruke denne versionen du må installere platformIO
+du trenger python også
+og når du instalere platformIO vil den si python er ikke instalert
+hvis du ikke har det fra før, men da trykker du på instaler python
+så åpner den en netside som viser hvordan å instalere python
+etter den er instalert Start visuell Studio på nytt
+så trykker du på åpne prosjekt og velg denne mappen
+coden ligger i src (source)
+
